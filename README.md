@@ -36,7 +36,7 @@
 | Projeto | O que faz | Stack |
 | --- | --- | --- |
 | **Apex Offers** | Captura ofertas da Amazon EUA e Brasil com uma extensão do Chrome, valida o link de afiliado e publica no Telegram. Tem dashboard, filas separadas por país e gerador de posts pro Instagram | Python · Extensão Chrome · SQLite |
-| **Pedidos e Entregadores** | Sistema de cadastro de pedidos e entregadores com relatório em HTML (projeto da faculdade) | Python |
+| **Pedidos e Entregadores** | Sistema de cadastro de pedidos e entregadores com relatório em HTML (projeto da faculdade) | Python · HTML |
 | **Página de Vendas** | Landing page integrada ao checkout da Cakto | HTML · CSS |
 | **PUC Bank** | Sistema bancário para fins educacionais (em andamento) | Em breve |
 
