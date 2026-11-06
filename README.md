@@ -27,16 +27,8 @@
 
 ## Stack
 
-**Uso no dia a dia** · *Daily use*
-
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,git,github,vscode&theme=dark" alt="C, C++, Python, MySQL, HTML, CSS, Git, GitHub, VS Code" />
-</p>
-
-**Aprendendo** · *Learning*
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,fastapi,postgres,redis,docker&theme=dark" alt="JavaScript, TypeScript, React, FastAPI, PostgreSQL, Redis, Docker" />
 </p>
 
 ## Projetos · *Projects*
