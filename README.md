@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Oi%2C+eu+sou+o+Pietro;Engenharia+de+Software+na+PUC-Campinas;Python+%7C+C%2FC%2B%2B+%7C+Web;Automa%C3%A7%C3%A3o%2C+bots+e+sites" alt="Oi, eu sou o Pietro" />
 
 <p>
-  <img src="https://img.shields.io/badge/PUC--Campinas-Engenharia_de_Software-58A6FF?style=for-the-badge&labelColor=0d1117" alt="PUC-Campinas" />
+  <img src="https://img.shields.io/badge/Engenharia_de_Software-PUC_Campinas-58A6FF?style=for-the-badge&labelColor=0d1117" alt="PUC-Campinas" />
   <img src="https://img.shields.io/badge/Campinas-SP,_Brasil-2ea043?style=for-the-badge&labelColor=0d1117" alt="Campinas, SP" />
 </p>
 
