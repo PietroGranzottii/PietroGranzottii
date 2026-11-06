@@ -14,7 +14,6 @@
 - Estudo Engenharia de Software na PUC-Campinas (2026 a 2030)
 - Curto criar coisa que resolve problema de verdade: bots, automações e sites
 - Faço sites e otimizo o Perfil da Empresa no Google de pequenos negócios de Campinas e região
-- Cofundador do **MatchPUC**, rede social feita pros alunos da PUC-Campinas
 
 <details>
 <summary><b>English version</b></summary>
@@ -23,7 +22,6 @@
 - Software Engineering student at PUC-Campinas, Brazil (2026 to 2030)
 - I like building things that solve real problems: bots, automations and websites
 - I build websites and optimize Google Business Profiles for small businesses in the Campinas area
-- Co-founder of **MatchPUC**, a social platform for PUC-Campinas students
 
 </details>
 
@@ -46,7 +44,6 @@
 | Projeto | O que faz | Stack |
 | --- | --- | --- |
 | **Apex Offers** | Captura ofertas da Amazon EUA e Brasil com uma extensão do Chrome, valida o link de afiliado e publica no Telegram. Tem dashboard, filas separadas por país e gerador de posts pro Instagram | Python · Extensão Chrome · SQLite |
-| **MatchPUC** | Rede social pros alunos da PUC-Campinas: cadastro com e-mail institucional, perfil, match e chat em tempo real | FastAPI · PostgreSQL · Redis · React · TypeScript · Docker |
 | **Pedidos e Entregadores** | Sistema de cadastro de pedidos e entregadores com relatório em HTML (projeto da faculdade) | Python |
 | **Página de Vendas** | Landing page integrada ao checkout da Cakto | HTML · CSS |
 | **PUC Bank** | Sistema bancário para fins educacionais (em andamento) | Em breve |
